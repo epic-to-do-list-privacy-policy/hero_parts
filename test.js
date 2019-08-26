@@ -1,1 +1,1 @@
-alert("hello");
+var a = "hello";
